@@ -3,6 +3,7 @@
 Code source Java des workshops réalisés pendant le Hands-on-Lab [Initiation à Spark avec Java 8 et Scala](http://cfp.devoxx.fr/2015/talk/YGL-3979/_Initiation_a_Spark_avec_Java_8_et_Scala)
 animé par Hayssam Saleh et Olivier Girardot lors de Devoxx France 2015.
 
+Le code source de ce projet sert de base au [Tutorial sur Spark avec Java 8](http://javaetmoi.com/2015/04/initiation-apache-spark-en-java-devoxx/)
 
 ## Ressources ##
 
